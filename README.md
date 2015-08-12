@@ -9,6 +9,9 @@ Internet links
 
 ## Libs
 
+[Guava](https://github.com/google/guava) // *Java, License:Apache*
+> The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
+
 [Mustache](http://mustache.github.io/) // *Template, Java, C++, Python, JavaScript, License:Apache*
 > Logic-less templates. (Implemented in veriety of languages)
 
