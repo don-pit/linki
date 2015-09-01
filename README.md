@@ -7,6 +7,12 @@ Internet links
 > Eclipse SQL Explorer is a thin SQL client that allows you to query and browse any JDBC compliant database. It supports plugins with specialized functionality for individual databases (Oracle, DB2 and MySQL) and can be extended to include specialized support for other databases.
 
 
+## Tools
+
+[Docutils](http://docutils.sourceforge.net/) // *Text format, Python, License:public-domain*
+> Docutils is an open-source text processing system for processing plaintext documentation into useful formats, such as HTML, LaTeX, man-pages, open-document or XML. It includes reStructuredText, the easy to read, easy to use, what-you-see-is-what-you-get plaintext markup language.
+
+
 ## Libs
 
 [Guava](https://github.com/google/guava) // *Java, License:Apache*
