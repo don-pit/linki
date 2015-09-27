@@ -1,6 +1,9 @@
 # linki
 Internet links
 
+- [Office](office.md)
+
+
 ## IDEs
 
 [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) // *C, C++, Windows, License:gnu-gpl*
