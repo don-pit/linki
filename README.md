@@ -12,6 +12,9 @@ Internet links
 [Eclipse SQL Explorer](http://eclipsesql.sourceforge.net/) // *Eclipse, DB, Windows, Linux, License:gnu-lgpl*
 > Eclipse SQL Explorer is a thin SQL client that allows you to query and browse any JDBC compliant database. It supports plugins with specialized functionality for individual databases (Oracle, DB2 and MySQL) and can be extended to include specialized support for other databases.
 
+[Ideone.com](http://ideone.com/) // *Online, C, C++, Java, Python*
+> Ideone is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
+
 
 ## Tools
 
