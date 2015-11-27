@@ -9,6 +9,9 @@ Internet links
 [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) // *C, C++, Windows, License:gnu-gpl*
 > A free, portable, fast and simple C/C++ IDE (for Windows 32/64).
 
+[Eclipse](https://eclipse.org/) // *Eclipse, Java, Windows, Linux, License:eclipse*
+> Eclipse IDE.
+
 [Eclipse SQL Explorer](http://eclipsesql.sourceforge.net/) // *Eclipse, DB, Windows, Linux, License:gnu-lgpl*
 > Eclipse SQL Explorer is a thin SQL client that allows you to query and browse any JDBC compliant database. It supports plugins with specialized functionality for individual databases (Oracle, DB2 and MySQL) and can be extended to include specialized support for other databases.
 
