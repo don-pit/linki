@@ -35,6 +35,9 @@ Internet links
 [mountebank](http://www.mbtest.org/) // *Functional testing, WebService, JavaScript, License:MIT*
 > mountebank is the first open source tool to provide cross-platform, multi-protocol test doubles over the wire. Simply point your application under test to mountebank instead of the real dependency, and test like you would with traditional stubs and mocks.
 
+[Resizer](http://design.google.com/resizer/) // *Online, Web UI, Functional testing*
+> An interactive viewer to see and test how digital products respond to material design breakpoints across desktop, mobile, and tablet. See [introduction article](https://design.google.com/articles/introducing-resizer/).
+
 [SoapUI](http://www.soapui.org/) // *WebService, SOAP, REST, License:Propietary-Open-Source*
 > SoapUI is a free and open source cross-platform Functional Testing solution. With an easy-to-use graphical interface, and enterprise-class features, SoapUI allows you to easily and rapidly create and execute automated functional, regression, compliance, and load tests. In a single test environment, SoapUI provides complete test coverage and supports all the standard protocols and technologies.
 
