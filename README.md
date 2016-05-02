@@ -29,6 +29,16 @@ Internet links
 
 ## Tools
 
+[Artifactory](https://www.jfrog.com/artifactory/) // *Artifact Repository Manager, License:Commercial, Licence:gnu-lgpl*
+> As the first, and only, universal Artifact Repository Manager on the market, JFrog Artifactory fully supports software packages created by any language or technology. Artifactory is the only enterprise-ready repository manager available today, supporting secure, clustered, High Availability Docker registries. Integrating with all major CI/CD and DevOps tools, Artifactory provides an end-to-end, automated and bullet-proof solution for tracking artifacts from development to production.
+
+> [Open-source edition](https://www.jfrog.com/open-source/).
+
+[Bintray](https://www.jfrog.com/bintray/) // *Distribution Manager, License:Commercial, Licence:gnu-lgpl*
+> Bintray gives developers full control over how they store, publish, download, promote and distribute software with advanced features that fully automate the software distribution process. Together, Bintray and Artifactory form the only end-to-end solution for a fully automated continuous delivery pipeline in software development.
+
+> [Open-source edition](https://www.jfrog.com/open-source/).
+
 [Docutils](http://docutils.sourceforge.net/) // *Text format, Python, License:public-domain*
 > Docutils is an open-source text processing system for processing plaintext documentation into useful formats, such as HTML, LaTeX, man-pages, open-document or XML. It includes reStructuredText, the easy to read, easy to use, what-you-see-is-what-you-get plaintext markup language.
 
