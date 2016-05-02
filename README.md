@@ -34,7 +34,7 @@ Internet links
 
 > [Open-source edition](https://www.jfrog.com/open-source/).
 
-[Bintray](https://www.jfrog.com/bintray/) // *Distribution Manager, License:Commercial, Licence:gnu-lgpl*
+[Bintray](https://www.jfrog.com/bintray/) // *Online, Distribution Manager, License:Commercial, Licence:open-source*
 > Bintray gives developers full control over how they store, publish, download, promote and distribute software with advanced features that fully automate the software distribution process. Together, Bintray and Artifactory form the only end-to-end solution for a fully automated continuous delivery pipeline in software development.
 
 > [Open-source edition](https://www.jfrog.com/open-source/).
