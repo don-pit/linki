@@ -57,6 +57,9 @@ Internet links
 [Guava](https://github.com/google/guava) // *Java, License:Apache*
 > The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
 
+[Logback](http://logback.qos.ch/) // *Logging, Java, License:EPL, License:gnu-lgpl*
+> Logback is intended as a successor to the popular log4j project. 
+
 [Mustache](http://mustache.github.io/) // *Template, Java, C++, Python, JavaScript, License:Apache*
 > Logic-less templates. (Implemented in veriety of languages)
 
