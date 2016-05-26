@@ -52,6 +52,12 @@ Internet links
 > SoapUI is a free and open source cross-platform Functional Testing solution. With an easy-to-use graphical interface, and enterprise-class features, SoapUI allows you to easily and rapidly create and execute automated functional, regression, compliance, and load tests. In a single test environment, SoapUI provides complete test coverage and supports all the standard protocols and technologies.
 
 
+## Frameworks
+
+[CUBA.Platform](https://www.cuba-platform.com/) // *Java, Enterprise App, Web UI, License:Apache*
+> CUBA Platform is a high level framework for rapid development of enterprise applications with rich web interface.
+
+
 ## Libs
 
 [Guava](https://github.com/google/guava) // *Java, License:Apache*
@@ -63,5 +69,5 @@ Internet links
 [Mustache](http://mustache.github.io/) // *Template, Java, C++, Python, JavaScript, License:Apache*
 > Logic-less templates. (Implemented in veriety of languages)
 
-[Retrofit](http://square.github.io/retrofit/) // *WebService, REST, Java, License: Apache*
+[Retrofit](http://square.github.io/retrofit/) // *WebService, REST, Java, License:Apache*
 > Type-safe REST client for Android and Java by Square, Inc.
