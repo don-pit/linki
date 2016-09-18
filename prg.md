@@ -8,14 +8,22 @@
 
 ## Libraries
 
-[Guava](https://github.com/google/guava) // *Java, License:Apache*
+### Java
+
+[Guava](https://github.com/google/guava) // *License:Apache*
 > The Guava project contains several of Google's core libraries that we rely on in our Java-based projects: collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
 
-[Logback](http://logback.qos.ch/) // *Logging, Java, License:EPL, License:gnu-lgpl*
+[Logback](http://logback.qos.ch/) // *Logging, License:EPL, License:gnu-lgpl*
 > Logback is intended as a successor to the popular log4j project.
 
-[Mustache](http://mustache.github.io/) // *Template, Java, C++, Python, JavaScript, License:Apache*
+[Mustache](http://mustache.github.io/) // *Template, C++, Python, JavaScript, License:Apache*
 > Logic-less templates. (Implemented in veriety of languages)
 
-[Retrofit](http://square.github.io/retrofit/) // *WebService, REST, Java, License:Apache*
+[Retrofit](http://square.github.io/retrofit/) // *WebService, REST, License:Apache*
 > Type-safe REST client for Android and Java by Square, Inc.
+
+
+### Python
+
+[Markdown](http://pythonhosted.org/Markdown/) // *Markdown, Lixense:BSD*
+> This is a Python implementation of John Gruber's Markdown. It is almost completely compliant with the reference implementation, though there are a few known issues.
