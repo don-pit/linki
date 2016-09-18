@@ -25,5 +25,5 @@
 
 ### Python
 
-[Markdown](http://pythonhosted.org/Markdown/) // *Markdown, Lixense:BSD*
+[Markdown](http://pythonhosted.org/Markdown/) // *Markdown, License:BSD*
 > This is a Python implementation of John Gruber's Markdown. It is almost completely compliant with the reference implementation, though there are a few known issues.
