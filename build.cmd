@@ -15,6 +15,8 @@ IF NOT EXIST %_venv% (
 SET _output=.output
 IF NOT EXIST %_output% (
     MKDIR %_output%
+) ELSE (
+    DEL /F /Q %_output%\*
 )
 
 FOR /F "tokens=*" %%G IN ('dir /b *.md') DO (
