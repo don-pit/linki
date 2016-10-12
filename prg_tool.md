@@ -21,6 +21,14 @@
 > Ideone is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 
 
+## UML
+
+[Modelio](https://www.modelio.org/) // *Windows, Linux, MacOs, Java, License:gnu-gpl*
+> An open source modeling environment supporting the main standards: UML, BPMN, MDA, SysML, ...
+
+[UML Designer](http://www.umldesigner.org/) // *Windows, Linux, MacOs, License:EPL*
+> UML Designer provides a set of common diagrams to work with UML 2.5 models. The intent is to provide an easy way to make the transition from UML to domain specific modeling. This way users can continue to manipulate legacy UML models and start working with DSL. Users can even re-use the provided representations and work in a total transparence on both UML and DSL models at the same time.
+
 ## Tools
 
 [Artifactory](https://www.jfrog.com/artifactory/) // *Artifact Repository Manager, License:Commercial, Licence:gnu-lgpl*
