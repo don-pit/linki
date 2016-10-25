@@ -11,6 +11,9 @@
 [Eclipse SQL Explorer](http://eclipsesql.sourceforge.net/) // *Eclipse, DB, Windows, Linux, License:gnu-lgpl*
 > Eclipse SQL Explorer is a thin SQL client that allows you to query and browse any JDBC compliant database. It supports plugins with specialized functionality for individual databases (Oracle, DB2 and MySQL) and can be extended to include specialized support for other databases.
 
+[Visual Studio Code](https://code.visualstudio.com/) // *C, C++, C#, Python, Windows, Linux, License:microsoft-flavour MIT*
+> Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs.
+
 
 ## Compilers
 
