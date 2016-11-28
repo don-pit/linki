@@ -24,6 +24,12 @@
 > Ideone is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 
 
+## DB Browser
+
+[DB Browser for SQLite](http://sqlitebrowser.org/) // *sqlite, License:gnu-gpl, License:mozilla, Windows, Linux*
+> DB Browser for SQLite is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite. It is for users and developers wanting to create databases, search, and edit data. It uses a familiar spreadsheet-like interface, and you don't need to learn complicated SQL commands.
+
+
 ## UML
 
 [Modelio](https://www.modelio.org/) // *Windows, Linux, MacOs, Java, License:gnu-gpl*
