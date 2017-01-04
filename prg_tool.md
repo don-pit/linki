@@ -24,6 +24,12 @@
 > Ideone is an online compiler and debugging tool which allows you to compile source code and execute it online in more than 60 programming languages.
 
 
+## SCM
+
+[Fossil](http://www.fossil-scm.org/) // *Windows, Linux, MacOs,licenxe:bsd*
+> Fossil is a simple, high-reliability, distributed self-contained software configuration management system with Wiki, Bugtrack, built-in Web-interface.
+
+
 ## DB Browser
 
 [DB Browser for SQLite](http://sqlitebrowser.org/) // *sqlite, License:gnu-gpl, License:mozilla, Windows, Linux*
@@ -61,3 +67,6 @@
 
 [SoapUI](http://www.soapui.org/) // *WebService, SOAP, REST, License:Propietary-Open-Source*
 > SoapUI is a free and open source cross-platform Functional Testing solution. With an easy-to-use graphical interface, and enterprise-class features, SoapUI allows you to easily and rapidly create and execute automated functional, regression, compliance, and load tests. In a single test environment, SoapUI provides complete test coverage and supports all the standard protocols and technologies.
+
+[WinMerge](http://winmerge.org/) // *windows, License:gnu-gpl*
+> WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.
