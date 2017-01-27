@@ -26,8 +26,13 @@
 
 ## SCM
 
-[Fossil](http://www.fossil-scm.org/) // *Windows, Linux, MacOs,licenxe:bsd*
+[Fossil](http://www.fossil-scm.org/) // *Windows, Linux, MacOs, license:bsd*
 > Fossil is a simple, high-reliability, distributed self-contained software configuration management system with Wiki, Bugtrack, built-in Web-interface.
+
+[Git](https://git-scm.com/) // *Linux, Windows, License:gnu-gpl*
+> Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+> [For Windows (Git Bash)](https://git-scm.com/download/win)
 
 
 ## DB Browser
