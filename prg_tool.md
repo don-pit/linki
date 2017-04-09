@@ -52,6 +52,7 @@
 [UML Designer](http://www.umldesigner.org/) // *Windows, Linux, MacOs, License:EPL*
 > UML Designer provides a set of common diagrams to work with UML 2.5 models. The intent is to provide an easy way to make the transition from UML to domain specific modeling. This way users can continue to manipulate legacy UML models and start working with DSL. Users can even re-use the provided representations and work in a total transparence on both UML and DSL models at the same time.
 
+
 ## Tools
 
 [Artifactory](https://www.jfrog.com/artifactory/) // *Artifact Repository Manager, License:Commercial, Licence:gnu-lgpl*
@@ -59,10 +60,16 @@
 
 > [Open-source edition](https://www.jfrog.com/open-source/).
 
+
 [Bintray](https://www.jfrog.com/bintray/) // *Online, Distribution Manager, License:Commercial, Licence:open-source*
 > Bintray gives developers full control over how they store, publish, download, promote and distribute software with advanced features that fully automate the software distribution process. Together, Bintray and Artifactory form the only end-to-end solution for a fully automated continuous delivery pipeline in software development.
 
 > [Open-source edition](https://www.jfrog.com/open-source/).
+
+
+[Boostnote](https://boostnote.io/) // *Note-taking, Windows, Linux, MacOs, License:gnu-gpl*
+> Boostnote is an open source note-taking app made for progammers just like you. Notes are in Markdown. Snippets are allowed with syntax highlight of 100 languages including LaTeX.
+
 
 [Docutils](http://docutils.sourceforge.net/) // *Text format, Python, License:public-domain*
 > Docutils is an open-source text processing system for processing plaintext documentation into useful formats, such as HTML, LaTeX, man-pages, open-document or XML. It includes reStructuredText, the easy to read, easy to use, what-you-see-is-what-you-get plaintext markup language.
