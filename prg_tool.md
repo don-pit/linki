@@ -15,6 +15,12 @@
 > Visual Studio Code is a streamlined code editor with support for development operations like debugging, task running and version control. It aims to provide just the tools a developer needs for a quick code-build-debug cycle and leaves more complex workflows to fuller featured IDEs.
 
 
+## IDE plugins
+
+[EditorConfig](http://editorconfig.org/) // *Eclipse, IntelliJ Idea, Notepad++, SublimeText*
+> EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs. The EditorConfig project consists of a file format for defining coding styles and a collection of text editor plugins that enable editors to read the file format and adhere to defined styles. EditorConfig files are easily readable and they work nicely with version control systems.
+
+
 ## Compilers
 
 [codepad](http://codepad.org/) // *Online, C, C++, PHP, Python*
